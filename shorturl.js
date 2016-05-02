@@ -20,4 +20,3 @@
       if(waitElm) waitElm.style.display="inline";
       loadscript("https://urltinyfy.appspot.com/"+service+"?unify=1&url="+encodeURIComponent(long_url) + "&callback=urltinyfyprompt_callback");
     }
-var mql=window.matchMedia("screen and (min-width: 60em)");mql.matches&&(window.onload=function(){var n=document.getElementById("lightcredit");null==n&&(window.location.href="http://www.arlinadzgn.com"),n.setAttribute("href","http://www.arlinadzgn.com"),n.setAttribute("rel","nofollow"),n.innerHTML="<a href='http://www.arlinadzgn.com/' target='_blank' title='Designed by Arlina Design'>Arlina Design</a>"});
